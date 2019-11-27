@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-    HelloWorld
+  <div class="cart">
+    this is cart
   </div>
 </template>
 

@@ -1,0 +1,51 @@
+{
+  "id": "1530733",
+  "name": "node商城",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5381934",
+      "name": "未标题-1",
+      "font_class": "weibiaoti-",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    },
+    {
+      "icon_id": "5381992",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "5381994",
+      "name": "商品分类2",
+      "font_class": "shangpinfenlei",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "5381996",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e6f4",
+      "unicode_decimal": 59124
+    },
+    {
+      "icon_id": "5391607",
+      "name": "用户信息",
+      "font_class": "yonghuxinxi",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "6894201",
+      "name": "钥匙",
+      "font_class": "yuechi",
+      "unicode": "e76e",
+      "unicode_decimal": 59246
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-    HelloWorld
+  <div class="mine">
+    this is mine
   </div>
 </template>
 
